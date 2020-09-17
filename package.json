@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "KvaCh",
+  "engines": {
+    "node": "12.16.2"
+  },
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
